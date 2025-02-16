@@ -152,7 +152,7 @@ class _RegistrationScreenState extends State<RegistrationScreen> {
               ),
               const SizedBox(height: 20),
 
-              // Redirect to Sign In
+              //  Sign In
               Row(
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: [
